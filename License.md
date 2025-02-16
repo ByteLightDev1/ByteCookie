@@ -27,8 +27,6 @@ This software ("the Software") is provided under the following license:
 7. **Applicable Law**  
    This license agreement is governed by and construed in accordance with international intellectual property laws and applicable local laws in your jurisdiction. Any legal action or proceeding under this agreement shall be brought exclusively in a competent court in the jurisdiction where you reside or where ByteLightDev is established, as deemed appropriate by ByteLightDev.
 
-By using the Software, you agree to the terms and conditions of this license.
-
 ---
 
-This version ensures that it applies to international use while allowing local legal frameworks to handle any disputes. Would this work for you?
+By using the Software, you agree to the terms and conditions of this license.
